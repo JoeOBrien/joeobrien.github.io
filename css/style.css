@@ -1,0 +1,11 @@
+.image{
+  width:                  300px;
+  height:                 300px;
+  border-radius:          150px;
+  -webkit-border-radius:  150px;
+  -moz-border-radius:     150px;
+  background:             url(https://avatars2.githubusercontent.com/u/5874388?v=3&s=460) no-repeat;
+  box-shadow:             0 0 8px rgbaa(0, 0, 0, .8);
+  -webkit-box-shadow:     0 0 8px rgbaa(0, 0, 0, .8);
+  -moz-box-shadow:        0 0 8px rgbaa(0, 0, 0, .8);
+}
