@@ -24,8 +24,5 @@ body{
 }
 .title,
 .bio{
-  margin:                 10px;
-  margin-left:            10%;
-  width:                  300px;
   text-align:             center;
 }
